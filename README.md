@@ -1,6 +1,7 @@
 # Kata FizzBuzz
 
-Resolución de la Kata. Puedes verlo en un vídeo de livecoding en https://premium.danielprimo.io/directos/aprender-tdd-con-kata-programacion
+Resolución de la Kata. Puedes verlo en un vídeo de livecoding en
+https://premium.danielprimo.io/desafios/directos/aprender-tdd-con-kata-programacion
 
 
 ### Descripción de la Kata Fizz Buzz
